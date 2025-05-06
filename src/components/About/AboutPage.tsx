@@ -1,8 +1,12 @@
 import { FaQuoteRight } from "react-icons/fa6";
+import { RiTwitterXLine } from "react-icons/ri";
+import { FaGithub } from "react-icons/fa";
+import { BiLogoTelegram } from "react-icons/bi";
+import { FaInstagram } from "react-icons/fa";
+import { FaDiscord } from "react-icons/fa";
 
 export const AboutPage = () => {
-
-    const imagePath = "/images/blog/author.jpeg"
+  const imagePath = "/images/blog/author.jpeg";
 
   return (
     <div className="w-full py-20 flex items-center justify-center">
@@ -72,19 +76,43 @@ export const AboutPage = () => {
           </div>
         </div>
 
-        <div className="w-[30%]">
-
-            <div className="w-full h-[400px] border border-r-6 border-b-6 rounded-xl flex items-center  flex-col p-4">
-
-                <div className="w-[200px] h-[200px] rounded-full border border-r-6 border-b-6">
-                    <img src={imagePath} className="w-full h-full rounded-inherit" alt="" />
-                </div>
-
-
-
+        <div className="w-[30%] px-5">
+          <div className="w-full h-[400px] border border-r-6 border-b-6 rounded-xl flex items-center  flex-col p-4">
+            <div className="w-[200px] h-[200px] rounded-full border border-r-6 border-b-6">
+              <img
+                src={imagePath}
+                className="w-full h-full rounded-inherit"
+                alt=""
+              />
             </div>
 
 
+            <div className="w-full my-3 text-center">
+                <h3 className="text-2xl font-bold">0xKinani</h3>
+            </div>
+
+            <div className="flex items-center justify-center gap-5 flex-wrap mt-5">
+              <div className="border border-r-3 border-b-3 rounded-xl p-2 text-2xl bg-white cursor-pointer">
+                <RiTwitterXLine />
+              </div>
+
+              <div className="border border-r-3 border-b-3 rounded-xl p-2 text-2xl bg-white cursor-pointer">
+                <FaGithub />
+              </div>
+
+              <div className="border border-r-3 border-b-3 rounded-xl p-2 text-2xl bg-white cursor-pointer">
+                <BiLogoTelegram />
+              </div>
+
+              <div className="border border-r-3 border-b-3 rounded-xl p-2 text-2xl bg-white cursor-pointer">
+                <FaInstagram />
+              </div>
+
+              <div className="border border-r-3 border-b-3 rounded-xl p-2 text-2xl bg-white cursor-pointer">
+                <FaDiscord />
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>

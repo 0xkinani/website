@@ -3,6 +3,7 @@ import { FeaturedBlog } from "../../components/FeaturedBlog/FeaturedBlog";
 import { SectionTitle } from "../../components/ui/SectionTitle/SectionTitle";
 import { RecentArticles } from "../../components/RecentArticles/RecentArticles";
 import { NewsLetter } from "../../components/NewsLetter/NewsLetter";
+import { Footer } from "../../components/ui/Footer/Footer";
 export const Home = () => {
   return (
     <div className="w-full">
@@ -11,6 +12,7 @@ export const Home = () => {
       <SectionTitle />
       <RecentArticles />
       <NewsLetter />
+      <Footer />
     </div>
   );
 };

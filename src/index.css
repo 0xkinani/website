@@ -39,3 +39,18 @@ body{
 .rounded-inherit{
   border-radius: inherit;
 }
+
+/* the red border at the bottom should animate out when the mouse it hovered on the link and when the link is active */
+
+
+
+a.active {
+  border-bottom: 2px solid red;
+}
+
+a.active:hover {
+  border-bottom: 2px solid transparent;
+}
+
+
+

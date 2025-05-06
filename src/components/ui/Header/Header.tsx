@@ -2,6 +2,7 @@ import { Logo } from "../../Logo/Logo";
 import { FaSearch } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { IoMenu } from "react-icons/io5";
+import { Link, NavLink } from "react-router-dom";
 
 export const Header = () => {
   return (
@@ -24,10 +25,10 @@ export const Header = () => {
 
         <div className="w-full p-5 border border-r-6 border-b-6 mt-10 rounded-xl items-center justify-center bg-white lg:flex hidden">
           <div className="w-full flex items-center justify-center gap-5 text-xl font-bold">
-            <p>Home</p>
-            <p>About</p>
-            <p>Blog</p>
-            <p>Contact</p>
+            <NavLink to="/">Home</NavLink>
+            <NavLink to="/about">About</NavLink>
+            <NavLink to="/blog">Blog</NavLink>
+            <NavLink to="/contact">Contact</NavLink>
           </div>
         </div>
       </div>

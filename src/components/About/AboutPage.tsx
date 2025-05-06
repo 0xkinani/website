@@ -6,7 +6,7 @@ import { FaInstagram } from "react-icons/fa";
 import { FaDiscord } from "react-icons/fa";
 
 export const AboutPage = () => {
-  const imagePath = "/images/blog/author.jpeg";
+  const imagePath = "/images/0xkinani.png";
 
   return (
     <div className="w-full lg:py-20 py-10 flex items-center justify-center">

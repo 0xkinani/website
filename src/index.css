@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+/* custom fonts */
+@font-face {
+  font-family: "DMSans";
+  src: url("/fonts/dmsans/DMSans.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "DMSans-Italic";
+  src: url("/fonts/dmsans/DMSans-Italic.ttf") format("truetype");
+}
+
+
+@font-face {
+  font-family: "churchward";
+  src: url("/fonts/churchward/churchward.otf") format("opentype");
+}
+
+
+
+body{
+  font-family: "DMSans";
+}
+
+.font-dmsans{
+  font-family: "DMSans";
+}
+
+.font-dmsans-italic{
+  font-family: "DMSans-Italic";
+}
+
+.font-churchward{
+  font-family: "churchward";
+}

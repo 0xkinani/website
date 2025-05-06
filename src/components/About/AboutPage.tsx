@@ -9,9 +9,9 @@ export const AboutPage = () => {
   const imagePath = "/images/blog/author.jpeg";
 
   return (
-    <div className="w-full py-20 flex items-center justify-center">
-      <div className="w-[90%] flex items-start justify-between">
-        <div className="w-[68%]">
+    <div className="w-full lg:py-20 py-10 flex items-center justify-center">
+      <div className="w-[90%] flex items-start justify-between lg:flex-row flex-col-reverse">
+        <div className="lg:w-[68%] w-full">
           <div className="w-full text-center">
             <h3 className="text-4xl font-bold">About Me</h3>
           </div>
@@ -34,7 +34,7 @@ export const AboutPage = () => {
 
           {/* quote */}
 
-          <div className=" w-full h-[300px] bg-red-500 mt-10 roundex-xl border border-r-4 border-b-4 rounded-xl px-10">
+          <div className=" w-full lg:h-[300px] h-fit py-10 bg-red-500 mt-10 roundex-xl border border-r-4 border-b-4 rounded-xl px-10">
             <div className="w-full flex items-center justify-center h-full flex-col">
               <div className="w-[50px] h-[50px] bg-white/50 rounded-xl flex items-center justify-center text-white text-xl">
                 <FaQuoteRight />
@@ -76,8 +76,8 @@ export const AboutPage = () => {
           </div>
         </div>
 
-        <div className="w-[30%] px-5">
-          <div className="w-full h-[400px] border border-r-6 border-b-6 rounded-xl flex items-center  flex-col p-4">
+        <div className="lg:w-[30%] w-full lg:px-5 px-0">
+          <div className="w-full lg:h-[400px] lg:mb-0 mb-10 h-fit border border-r-6 border-b-6 rounded-xl flex items-center  flex-col p-4">
             <div className="w-[200px] h-[200px] rounded-full border border-r-6 border-b-6">
               <img
                 src={imagePath}

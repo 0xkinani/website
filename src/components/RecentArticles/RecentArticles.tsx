@@ -4,7 +4,7 @@ export const RecentArticles = () => {
   return (
     <div className="w-full flex items-center justify-center py-10">
       <div className="w-[90%] flex flex-wrap justify-between gap-5">
-        <div className="w-[48%] flex flex-col">
+        <div className="lg:w-[48%] w-full flex flex-col">
           <div className="w-full h-[400px] border border-r-6 border-b-6 rounded-tl-xl rounded-tr-xl rounded-bl-xl overflow-hidden relative">
             <img
               className="w-full h-full object-cover rounded-inherit hover:scale-120 transition-all duration-700 ease-in-out"
@@ -52,7 +52,7 @@ export const RecentArticles = () => {
           </div>
         </div>
 
-        <div className="w-[48%] flex flex-col">
+        <div className="lg:w-[48%] w-full flex flex-col">
           <div className="w-full h-[400px] border border-r-6 border-b-6 rounded-tl-xl rounded-tr-xl rounded-bl-xl overflow-hidden relative">
             <img
               className="w-full h-full object-cover rounded-inherit hover:scale-120 transition-all duration-700 ease-in-out"
@@ -100,7 +100,8 @@ export const RecentArticles = () => {
           </div>
         </div>
 
-        <div className="w-[48%] flex flex-col">
+
+        <div className="lg:w-[48%] w-full flex flex-col">
           <div className="w-full h-[400px] border border-r-6 border-b-6 rounded-tl-xl rounded-tr-xl rounded-bl-xl overflow-hidden relative">
             <img
               className="w-full h-full object-cover rounded-inherit hover:scale-120 transition-all duration-700 ease-in-out"
@@ -148,7 +149,8 @@ export const RecentArticles = () => {
           </div>
         </div>
 
-        <div className="w-[48%] flex flex-col">
+
+        <div className="lg:w-[48%] w-full flex flex-col">
           <div className="w-full h-[400px] border border-r-6 border-b-6 rounded-tl-xl rounded-tr-xl rounded-bl-xl overflow-hidden relative">
             <img
               className="w-full h-full object-cover rounded-inherit hover:scale-120 transition-all duration-700 ease-in-out"
@@ -195,6 +197,8 @@ export const RecentArticles = () => {
             </p>
           </div>
         </div>
+
+        
       </div>
     </div>
   );

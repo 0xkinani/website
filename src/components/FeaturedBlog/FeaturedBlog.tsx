@@ -6,9 +6,9 @@ export const FeaturedBlog = () => {
 
   return (
     <div className="w-full flex items-center justify-center">
-      <div className="w-[90%] mx-auto flex items-center justify-center border border-r-6 border-b-6 rounded-[30px] p-5 h-[500px] mt-10">
-        <div className="w-full h-full flex items-center justify-center gap-5">
-          <div className="w-[50%] h-full border border-r-6 border-b-6 rounded-tr-xl rounded-bl-xl overflow-hidden relative">
+      <div className="lg:w-[90%] w-[98%] max-w-full mx-auto flex items-center justify-center border border-r-6 border-b-6 rounded-[30px] p-5 lg:h-[500px] h-fit mt-10 lg:flex-row flex-col">
+        <div className="w-full h-full flex items-center justify-center gap-5 lg:flex-row flex-col">
+          <div className="lg:w-[50%] w-full h-full border border-r-6 border-b-6 rounded-tr-xl rounded-bl-xl overflow-hidden relative">
             <img
               className="w-full h-full object-cover rounded-inherit hover:scale-120 transition-all duration-700 ease-in-out"
               src={demoImagePath}
@@ -22,9 +22,9 @@ export const FeaturedBlog = () => {
             </div>
           </div>
 
-          <div className="w-[50%] h-full flex flex-col items-center justify-center px-10">
+          <div className="lg:w-[50%] w-full h-full flex flex-col items-center justify-center lg:px-10 px-2">
             <div className="w-full">
-              <h3 className="text-5xl font-extrabold hover:underline hover:text-red-500 transition-all duration-700 ease-in-out cursor-pointer">
+              <h3 className="lg:text-5xl text-3xl font-extrabold hover:underline hover:text-red-500 transition-all duration-700 ease-in-out cursor-pointer">
                 No News Has Yet Reached Us About Who Will Be Attending
               </h3>
             </div>
@@ -42,7 +42,7 @@ export const FeaturedBlog = () => {
               <p>November 29, 2022</p>
             </div>
 
-            <div className="w-full mb-5 text-xl">
+            <div className="w-full mb-5 text-xl lg:block hidden">
               <p>
                 Far far away, behind the word mountains, far from the countries
                 Vokalia and Consonantia, there live...

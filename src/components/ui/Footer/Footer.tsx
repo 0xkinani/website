@@ -12,12 +12,12 @@ export const Footer = () => {
       <div className="w-[90%] flex flex-col items-center">
         <div className="w-full h-[2px] bg-black mb-10"></div>
 
-        <div className="w-full mt-3 flex items-center justify-between gap-5">
+        <div className="w-full mt-3 flex items-center justify-between gap-5 lg:flex-row flex-col">
           <div>
             <p> &copy; {currentYear} All Rights Reserved</p>
           </div>
 
-          <div className="flex items-center justify-center gap-5">
+          <div className="flex items-center justify-center gap-5 flex-wrap">
             <div className="border border-r-3 border-b-3 rounded-xl p-2 text-2xl bg-white cursor-pointer">
               <RiTwitterXLine />
             </div>
@@ -39,7 +39,7 @@ export const Footer = () => {
             </div>
           </div>
 
-          <div>
+          <div className="lg:block hidden">
             <p>
               <BiSolidFaceMask size={35} />
             </p>

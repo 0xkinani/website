@@ -3,13 +3,17 @@ export const NewsLetter = () => {
 
   return (
     <div className="w-full flex items-center justify-center py-20">
-      <div className="w-[900px] border border-r-6 border-b-6 rounded-xl h-[350px]">
-        <div className="w-full h-full flex items-center">
+      <div className="lg:w-[900px] w-[90%] max-w-full border border-r-6 border-b-6 rounded-xl lg:h-[350px] h-fit">
+        <div className="w-full h-full flex items-center lg:flex-row flex-col lg:p-0 p-5">
           <div>
-            <img src={newsLetterimagePath} className="w-[300px]" alt="" />
+            <img
+              src={newsLetterimagePath}
+              className="lg:w-[300px] w-[100px]"
+              alt=""
+            />
           </div>
 
-          <div className="w-[60%]">
+          <div className="lg:w-[60%] w-[98%]">
             <h3 className="text-4xl font-bold">Subscribe to my Newsletter</h3>
 
             <div className="my-3 flex items-center gap-2">

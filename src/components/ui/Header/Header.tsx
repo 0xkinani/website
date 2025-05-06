@@ -2,7 +2,7 @@ import { Logo } from "../../Logo/Logo";
 import { FaSearch } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { IoMenu } from "react-icons/io5";
-import { Link, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 export const Header = () => {
   return (

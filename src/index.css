@@ -34,3 +34,8 @@ body{
 .font-churchward{
   font-family: "churchward";
 }
+
+
+.rounded-inherit{
+  border-radius: inherit;
+}

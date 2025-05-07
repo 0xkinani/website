@@ -141,3 +141,48 @@ a.active:hover {
   background-color: #ddd;
   margin: 2rem 0;
 }
+
+/* Override react-dropdown default styles */
+/* .Dropdown-root {
+  border: none !important;
+} */
+
+.Dropdown-control {
+  border: none !important;
+  background-color: transparent !important;
+}
+
+.Dropdown-menu {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+
+.bg-security{
+  background-color: #1CA36E;
+}
+
+.bg-anonymity{
+  background-color: #565d5a;
+}
+
+.bg-privacy{
+  background-color: #0056c6;
+}
+
+.bg-blockchain{
+  background-color: #ff9226;
+}
+
+.bg-life{
+  background-color: #ffffff;
+  color: #000000 !important;
+}
+
+.bg-life h3{
+  color: #000000 !important;
+}
+
+.bg-life div{
+  background-color: #000000 !important;
+}

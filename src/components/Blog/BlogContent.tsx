@@ -10,6 +10,8 @@ interface Blog {
   title: string;
   image: string;
   content: string;
+  author: string;
+  category: string;
 }
 
 export const BlogContent = () => {
@@ -23,21 +25,17 @@ export const BlogContent = () => {
     <div className="w-full flex items-center justify-center my-10">
       <div className="w-[80%]">
         <div className="w-full flex items-center gap-3 p-5">
-          <div className=" bg-green-400 border border-r-3 border-b-3 px-2 rounded-xl w-fit flex items-center gap-1">
+          <div className={` bg-${blog.category.toLowerCase()} border border-r-3 border-b-3 px-2 rounded-xl w-fit flex items-center gap-1`}>
             <div className="w-2 h-2 bg-white rounded-full"></div>
-            <h3 className="text-sm text-white">HEALTH</h3>
+            <h3 className="text-sm text-white uppercase">{blog.category}</h3>
           </div>
 
-          <div className=" bg-green-400 border border-r-3 border-b-3 px-2 rounded-xl w-fit flex items-center gap-1">
-            <div className="w-2 h-2 bg-white rounded-full"></div>
-            <h3 className="text-sm text-white">HEALTH</h3>
-          </div>
+          
         </div>
 
         <div className="w-full px-5">
-          <h3 className="text-6xl font-bold">
-            The Mind And Body Are Not Separate. What Affects One, Affects The
-            Other
+            <h3 className="text-6xl font-bold">
+               {blog.title}
           </h3>
         </div>
 
@@ -56,9 +54,13 @@ export const BlogContent = () => {
             </div>
 
             <div>
-              <p className="font-bold">0xkinani</p>
+              <p className="font-bold">{blog.author}</p>
 
-              <p className="text-sm">November 29, 2022</p>
+              <p className="text-sm">{new Date(blog.date).toLocaleDateString("en-US", {
+                year: "numeric",
+                month: "long",
+                day: "numeric",
+              })}</p>
             </div>
           </div>
         </div>

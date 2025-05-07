@@ -1,12 +1,15 @@
 import MDEditor from "@uiw/react-md-editor";
 import { useState } from "react";
-
+import Dropdown from "react-dropdown";
+import "react-dropdown/style.css";
 interface Blog {
   id: string;
   date: string;
   title: string;
   image: string;
   content: string;
+  author: string;
+  category: string;
 }
 
 export const MarkdownEditor = () => {
@@ -17,6 +20,8 @@ export const MarkdownEditor = () => {
     title: "",
     image: "",
     content: "",
+    author: "0xkinani",
+    category: "",
   });
   const handleChange = (val?: string) => {
     if (val !== undefined) setValue(val);
@@ -27,13 +32,6 @@ export const MarkdownEditor = () => {
   };
 
   const handleSave = () => {
-    // const escaped = value
-    //   .replace(/\\/g, '\\\\') // Escape backslashes
-    //   .replace(/"/g, '\\"')   // Escape double quotes
-    //   .replace(/\n/g, '\\n'); // Escape newlines
-
-    // console.log(escaped);
-
     const newBlog = {
       ...blog,
       id: generateId(blog.title),
@@ -45,6 +43,8 @@ export const MarkdownEditor = () => {
 
     console.log(JSON.stringify(newBlog));
   };
+
+  const categories = ["Security", "Anonymity", "Privacy", "Blockchain","Life"];
 
   return (
     <div className="w-full flex items-center justify-center py-20">
@@ -82,9 +82,23 @@ export const MarkdownEditor = () => {
               className="w-full mt-2 p-3 text-md rounded-full outline-none border border-black border-r-4 border-b-4"
             />
           </div>
+
+          <div className="w-full mt-5 flex items-center justify-center">
+            {/* dropdown for categories */}
+            <Dropdown
+              options={categories}
+              onChange={(e) => setBlog({ ...blog, category: e.value })}
+              value={blog.category}
+              placeholder="Select an option"
+              className="w-full mt-2  text-md rounded-full outline-0 border border-black border-r-4 border-b-4"
+            />
+          </div>
         </div>
 
-        <div data-color-mode="light" className="border border-black border-r-6 border-b-6 rounded-xl">
+        <div
+          data-color-mode="light"
+          className="border border-black border-r-6 border-b-6 rounded-xl"
+        >
           <MDEditor value={value} onChange={handleChange} height={1000} />
         </div>
       </div>

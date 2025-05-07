@@ -91,23 +91,53 @@ export const AboutPage = () => {
 
             <div className="flex items-center justify-center gap-5 flex-wrap mt-5">
               <div className="border border-r-3 border-b-3 rounded-xl p-2 text-2xl bg-white cursor-pointer">
-                <RiTwitterXLine />
+                <a
+                  href="https://x.com/0xkinani"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <RiTwitterXLine />
+                </a>
               </div>
 
               <div className="border border-r-3 border-b-3 rounded-xl p-2 text-2xl bg-white cursor-pointer">
-                <FaGithub />
+                <a
+                  href="https://github.com/0xkinani"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <FaGithub />
+                </a>
               </div>
 
               <div className="border border-r-3 border-b-3 rounded-xl p-2 text-2xl bg-white cursor-pointer">
-                <BiLogoTelegram />
+                <a
+                  href="https://t.me/kinani0x"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <BiLogoTelegram />
+                </a>
               </div>
 
               <div className="border border-r-3 border-b-3 rounded-xl p-2 text-2xl bg-white cursor-pointer">
-                <FaInstagram />
+                <a
+                  href="https://www.instagram.com/0xkinani"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <FaInstagram />
+                </a>
               </div>
 
               <div className="border border-r-3 border-b-3 rounded-xl p-2 text-2xl bg-white cursor-pointer">
-                <FaDiscord />
+                <a
+                  href="https://discord.gg/0xkinani"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <FaDiscord />
+                </a>
               </div>
             </div>
           </div>

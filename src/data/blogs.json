@@ -1,227 +1,48 @@
 [
-    {
-      "id": "24793c40-9422-4d64-ab1e-24f496f4ae2b",
-      "date": "2025-05-07T10:59:08.081037",
-      "title": "\ud83d\udd10 Understanding Zero Trust Security",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83d\udd10 Understanding Zero Trust Security\\n\\nWelcome to our blog on **security**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what security means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with security |\\n\\n```bash\\n# Sample command\\necho \"Securing security...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your security and stay informed.\\n\\n> \u201cYour security is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Security"
-    },
-    {
-      "id": "29e0b71d-93a1-4592-aaf5-f3b20be7e0c0",
-      "date": "2025-05-07T10:59:08.081265",
-      "title": "\ud83d\udee1\ufe0f The Evolution of Cybersecurity Threats",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83d\udee1\ufe0f The Evolution of Cybersecurity Threats\\n\\nWelcome to our blog on **security**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what security means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with security |\\n\\n```bash\\n# Sample command\\necho \"Securing security...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your security and stay informed.\\n\\n> \u201cYour security is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Security"
-    },
-    {
-      "id": "eee7e074-80d6-40ae-91de-4502c8e60ea3",
-      "date": "2025-05-07T10:59:08.081424",
-      "title": "\ud83d\udc68\u200d\ud83d\udcbb Penetration Testing 101",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83d\udc68\u200d\ud83d\udcbb Penetration Testing 101\\n\\nWelcome to our blog on **security**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what security means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with security |\\n\\n```bash\\n# Sample command\\necho \"Securing security...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your security and stay informed.\\n\\n> \u201cYour security is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Security"
-    },
-    {
-      "id": "b079012c-00e8-4b04-b395-41764ec09483",
-      "date": "2025-05-07T10:59:08.081592",
-      "title": "\ud83d\udce1 How Firewalls Actually Work",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83d\udce1 How Firewalls Actually Work\\n\\nWelcome to our blog on **security**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what security means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with security |\\n\\n```bash\\n# Sample command\\necho \"Securing security...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your security and stay informed.\\n\\n> \u201cYour security is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Security"
-    },
-    {
-      "id": "1586961f-e27f-4f8d-a116-6b5bdf03214e",
-      "date": "2025-05-07T10:59:08.081703",
-      "title": "\ud83d\udd0d Endpoint Security Best Practices",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83d\udd0d Endpoint Security Best Practices\\n\\nWelcome to our blog on **security**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what security means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with security |\\n\\n```bash\\n# Sample command\\necho \"Securing security...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your security and stay informed.\\n\\n> \u201cYour security is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Security"
-    },
-    {
-      "id": "4b20d141-c437-417a-bc65-464d91459ac7",
-      "date": "2025-05-07T10:59:08.082027",
-      "title": "\ud83d\udd75\ufe0f Staying Anonymous Online: Tools You Need",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83d\udd75\ufe0f Staying Anonymous Online: Tools You Need\\n\\nWelcome to our blog on **anonymity**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what anonymity means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with anonymity |\\n\\n```bash\\n# Sample command\\necho \"Securing anonymity...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your anonymity and stay informed.\\n\\n> \u201cYour anonymity is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Anonymity"
-    },
-    {
-      "id": "a3536911-86e9-4264-a80e-d8864ab47ee7",
-      "date": "2025-05-07T10:59:08.082419",
-      "title": "\ud83c\udf10 The Deep Web vs The Dark Web",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83c\udf10 The Deep Web vs The Dark Web\\n\\nWelcome to our blog on **anonymity**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what anonymity means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with anonymity |\\n\\n```bash\\n# Sample command\\necho \"Securing anonymity...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your anonymity and stay informed.\\n\\n> \u201cYour anonymity is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Anonymity"
-    },
-    {
-      "id": "7603096b-0c05-402b-9936-293c68b6027a",
-      "date": "2025-05-07T10:59:08.082463",
-      "title": "\ud83d\udcf1 Using Signal for Anonymous Messaging",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83d\udcf1 Using Signal for Anonymous Messaging\\n\\nWelcome to our blog on **anonymity**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what anonymity means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with anonymity |\\n\\n```bash\\n# Sample command\\necho \"Securing anonymity...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your anonymity and stay informed.\\n\\n> \u201cYour anonymity is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Anonymity"
-    },
-    {
-      "id": "70a39349-4cef-4388-a13a-61825ca22b52",
-      "date": "2025-05-07T10:59:08.082508",
-      "title": "\ud83d\udd17 How Tor Ensures Privacy",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83d\udd17 How Tor Ensures Privacy\\n\\nWelcome to our blog on **anonymity**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what anonymity means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with anonymity |\\n\\n```bash\\n# Sample command\\necho \"Securing anonymity...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your anonymity and stay informed.\\n\\n> \u201cYour anonymity is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Anonymity"
-    },
-    {
-      "id": "1a14223f-aa8c-47cb-91c5-e78b6df23e00",
-      "date": "2025-05-07T10:59:08.082520",
-      "title": "\u2696\ufe0f Ethics of Anonymity",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \u2696\ufe0f Ethics of Anonymity\\n\\nWelcome to our blog on **anonymity**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what anonymity means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with anonymity |\\n\\n```bash\\n# Sample command\\necho \"Securing anonymity...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your anonymity and stay informed.\\n\\n> \u201cYour anonymity is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Anonymity"
-    },
-    {
-      "id": "fee02a49-fb50-462f-84b1-3fe65e608092",
-      "date": "2025-05-07T10:59:08.082532",
-      "title": "\ud83d\udd12 Digital Privacy in 2025",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83d\udd12 Digital Privacy in 2025\\n\\nWelcome to our blog on **privacy**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what privacy means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with privacy |\\n\\n```bash\\n# Sample command\\necho \"Securing privacy...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your privacy and stay informed.\\n\\n> \u201cYour privacy is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Privacy"
-    },
-    {
-      "id": "55da206a-e9c8-4333-8b19-0f1be612a079",
-      "date": "2025-05-07T10:59:08.082546",
-      "title": "\ud83e\udde0 Why Privacy Matters More Than Ever",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83e\udde0 Why Privacy Matters More Than Ever\\n\\nWelcome to our blog on **privacy**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what privacy means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with privacy |\\n\\n```bash\\n# Sample command\\necho \"Securing privacy...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your privacy and stay informed.\\n\\n> \u201cYour privacy is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Privacy"
-    },
-    {
-      "id": "c0ab6e5a-b712-4146-af72-ed5b54f03aaa",
-      "date": "2025-05-07T10:59:08.082566",
-      "title": "\ud83d\udcf8 Metadata: The Hidden Threat",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83d\udcf8 Metadata: The Hidden Threat\\n\\nWelcome to our blog on **privacy**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what privacy means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with privacy |\\n\\n```bash\\n# Sample command\\necho \"Securing privacy...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your privacy and stay informed.\\n\\n> \u201cYour privacy is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Privacy"
-    },
-    {
-      "id": "e460494a-5adf-4c8d-9158-35a7f6273d0a",
-      "date": "2025-05-07T10:59:08.082577",
-      "title": "\ud83d\udcbb How to Browse Privately",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83d\udcbb How to Browse Privately\\n\\nWelcome to our blog on **privacy**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what privacy means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with privacy |\\n\\n```bash\\n# Sample command\\necho \"Securing privacy...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your privacy and stay informed.\\n\\n> \u201cYour privacy is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Privacy"
-    },
-    {
-      "id": "80c460af-3438-4fd3-a7a5-41e3b49ffc12",
-      "date": "2025-05-07T10:59:08.082589",
-      "title": "\ud83d\udce7 Securing Your Email Identity",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83d\udce7 Securing Your Email Identity\\n\\nWelcome to our blog on **privacy**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what privacy means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with privacy |\\n\\n```bash\\n# Sample command\\necho \"Securing privacy...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your privacy and stay informed.\\n\\n> \u201cYour privacy is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Privacy"
-    },
-    {
-      "id": "a7bb266f-0de7-4d1a-ac42-f2329ac0c00b",
-      "date": "2025-05-07T10:59:08.082606",
-      "title": "\u26d3\ufe0f How Blockchain Ensures Data Integrity",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \u26d3\ufe0f How Blockchain Ensures Data Integrity\\n\\nWelcome to our blog on **blockchain**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what blockchain means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with blockchain |\\n\\n```bash\\n# Sample command\\necho \"Securing blockchain...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your blockchain and stay informed.\\n\\n> \u201cYour blockchain is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Blockchain"
-    },
-    {
-      "id": "e90ba97e-c114-4ecc-add6-a63f2dd47e72",
-      "date": "2025-05-07T10:59:08.082622",
-      "title": "\ud83e\ude99 Beyond Bitcoin: Real Uses of Blockchain",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83e\ude99 Beyond Bitcoin: Real Uses of Blockchain\\n\\nWelcome to our blog on **blockchain**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what blockchain means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with blockchain |\\n\\n```bash\\n# Sample command\\necho \"Securing blockchain...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your blockchain and stay informed.\\n\\n> \u201cYour blockchain is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Blockchain"
-    },
-    {
-      "id": "ef893ed8-86da-4f8b-83db-a5675a0d70c7",
-      "date": "2025-05-07T10:59:08.082773",
-      "title": "\ud83e\udde0 Smart Contracts Explained",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83e\udde0 Smart Contracts Explained\\n\\nWelcome to our blog on **blockchain**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what blockchain means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with blockchain |\\n\\n```bash\\n# Sample command\\necho \"Securing blockchain...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your blockchain and stay informed.\\n\\n> \u201cYour blockchain is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Blockchain"
-    },
-    {
-      "id": "3609c2bf-04ca-43f5-9458-6a23e6813dba",
-      "date": "2025-05-07T10:59:08.082920",
-      "title": "\ud83d\udee0\ufe0f Building on Ethereum for Beginners",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83d\udee0\ufe0f Building on Ethereum for Beginners\\n\\nWelcome to our blog on **blockchain**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what blockchain means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with blockchain |\\n\\n```bash\\n# Sample command\\necho \"Securing blockchain...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your blockchain and stay informed.\\n\\n> \u201cYour blockchain is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Blockchain"
-    },
-    {
-      "id": "ed175f77-c5b8-4559-b77f-b5ce8a5168a2",
-      "date": "2025-05-07T10:59:08.082961",
-      "title": "\ud83c\udf0d Blockchain and Decentralized Identity",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83c\udf0d Blockchain and Decentralized Identity\\n\\nWelcome to our blog on **blockchain**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what blockchain means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with blockchain |\\n\\n```bash\\n# Sample command\\necho \"Securing blockchain...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your blockchain and stay informed.\\n\\n> \u201cYour blockchain is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Blockchain"
-    },
-    {
-      "id": "01add412-5d14-4a70-890d-6b882e7eb8c7",
-      "date": "2025-05-07T10:59:08.082999",
-      "title": "\ud83c\udf3f Mindfulness in a Digital Age",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83c\udf3f Mindfulness in a Digital Age\\n\\nWelcome to our blog on **life**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what life means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with life |\\n\\n```bash\\n# Sample command\\necho \"Securing life...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your life and stay informed.\\n\\n> \u201cYour life is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Life"
-    },
-    {
-      "id": "a3373ad0-fc16-44fb-9b48-05b90dc74bb3",
-      "date": "2025-05-07T10:59:08.083021",
-      "title": "\ud83c\udfc3\u200d\u2642\ufe0f Staying Healthy While Working Remote",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83c\udfc3\u200d\u2642\ufe0f Staying Healthy While Working Remote\\n\\nWelcome to our blog on **life**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what life means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with life |\\n\\n```bash\\n# Sample command\\necho \"Securing life...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your life and stay informed.\\n\\n> \u201cYour life is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Life"
-    },
-    {
-      "id": "3031da13-9b30-4e5b-96a5-159141f0a6f1",
-      "date": "2025-05-07T10:59:08.083044",
-      "title": "\ud83d\udcbc Balancing Multiple Careers",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83d\udcbc Balancing Multiple Careers\\n\\nWelcome to our blog on **life**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what life means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with life |\\n\\n```bash\\n# Sample command\\necho \"Securing life...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your life and stay informed.\\n\\n> \u201cYour life is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Life"
-    },
-    {
-      "id": "1551827d-3eb0-4fb8-a427-68749e270470",
-      "date": "2025-05-07T10:59:08.083063",
-      "title": "\ud83d\udcda Life Lessons from Open Source",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83d\udcda Life Lessons from Open Source\\n\\nWelcome to our blog on **life**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what life means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with life |\\n\\n```bash\\n# Sample command\\necho \"Securing life...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your life and stay informed.\\n\\n> \u201cYour life is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Life"
-    },
-    {
-      "id": "d3a1c737-dc1a-432c-b314-177eee7573b1",
-      "date": "2025-05-07T10:59:08.083081",
-      "title": "\ud83d\udd25 Finding Purpose in Tech",
-      "image": "/images/blog/demo.jpg",
-      "content": "# \ud83d\udd25 Finding Purpose in Tech\\n\\nWelcome to our blog on **life**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what life means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with life |\\n\\n```bash\\n# Sample command\\necho \"Securing life...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your life and stay informed.\\n\\n> \u201cYour life is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
-      "author": "0xkinani",
-      "category": "Life"
-    }
-  ]
+  {
+    "id": "24793c40-9422-4d64-ab1e-24f496f4ae2b",
+    "date": "2025-05-07T10:59:08.081037",
+    "title": "\ud83d\udd10 Understanding Zero Trust Security",
+    "image": "https://amarok.com/wp-content/uploads/2022/12/shutterstock_782064622.jpg",
+    "content": "# \ud83d\udd10 Understanding Zero Trust Security\\n\\nWelcome to our blog on **security**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what security means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with security |\\n\\n```bash\\n# Sample command\\necho \"Securing security...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your security and stay informed.\\n\\n> \u201cYour security is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
+    "author": "0xkinani",
+    "category": "Security"
+  },
+  {
+    "id": "4b20d141-c437-417a-bc65-464d91459ac7",
+    "date": "2025-05-07T10:59:08.082027",
+    "title": "\ud83d\udd75\ufe0f Staying Anonymous Online: Tools You Need",
+    "image": "https://media.licdn.com/dms/image/v2/D5612AQHfoXqS-vKQ9A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1711536701708?e=2147483647&v=beta&t=ZYI48jV22vW6IpV-5bjEYCogPGmEn3ivwaDT-kIgRJY",
+    "content": "# \ud83d\udd75\ufe0f Staying Anonymous Online: Tools You Need\\n\\nWelcome to our blog on **anonymity**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what anonymity means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with anonymity |\\n\\n```bash\\n# Sample command\\necho \"Securing anonymity...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your anonymity and stay informed.\\n\\n> \u201cYour anonymity is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
+    "author": "0xkinani",
+    "category": "Anonymity"
+  },
+  {
+    "id": "fee02a49-fb50-462f-84b1-3fe65e608092",
+    "date": "2025-05-07T10:59:08.082532",
+    "title": "\ud83d\udd12 Digital Privacy in 2025",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/64e759f3bea4969c8c4af6bb/Data-Privacy/960x0.png?format=png&width=960",
+    "content": "# \ud83d\udd12 Digital Privacy in 2025\\n\\nWelcome to our blog on **privacy**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what privacy means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with privacy |\\n\\n```bash\\n# Sample command\\necho \"Securing privacy...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your privacy and stay informed.\\n\\n> \u201cYour privacy is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
+    "author": "0xkinani",
+    "category": "Privacy"
+  },
+  {
+    "id": "a7bb266f-0de7-4d1a-ac42-f2329ac0c00b",
+    "date": "2025-05-07T10:59:08.082606",
+    "title": "\u26d3\ufe0f How Blockchain Ensures Data Integrity",
+    "image": "https://www.tech.gov.sg/images/technews/Not_just_crypto___Blockchain_uses_you_might_not_have_heard_of.jpeg",
+    "content": "# \u26d3\ufe0f How Blockchain Ensures Data Integrity\\n\\nWelcome to our blog on **blockchain**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what blockchain means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with blockchain |\\n\\n```bash\\n# Sample command\\necho \"Securing blockchain...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your blockchain and stay informed.\\n\\n> \u201cYour blockchain is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
+    "author": "0xkinani",
+    "category": "Blockchain"
+  },
+
+  {
+    "id": "01add412-5d14-4a70-890d-6b882e7eb8c7",
+    "date": "2025-05-07T10:59:08.082999",
+    "title": "\ud83c\udf3f Mindfulness in a Digital Age",
+    "image": "/images/blog/demo.jpg",
+    "content": "# \ud83c\udf3f Mindfulness in a Digital Age\\n\\nWelcome to our blog on **life**. In this article, we explore:\\n\\n## \ud83e\udde0 Key Concepts\\n\\n- A clear explanation of what life means.\\n- Tools and techniques you can use today.\\n- Pitfalls to avoid.\\n\\n## \ud83d\udee0\ufe0f Tools & Examples\\n\\n| Tool        | Purpose              |\\n|-------------|----------------------|\\n| ExampleTool | Helps with life |\\n\\n```bash\\n# Sample command\\necho \"Securing life...\"\\n```\\n\\n## \ud83d\udd1a Final Thoughts\\n\\nProtect your life and stay informed.\\n\\n> \u201cYour life is your power.\u201d\\n\\n![Illustration](/images/blog/demo.jpg)\\n",
+    "author": "0xkinani",
+    "category": "Life"
+  }
+]

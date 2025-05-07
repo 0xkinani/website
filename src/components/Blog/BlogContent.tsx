@@ -1,12 +1,23 @@
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import rehypeRaw from "rehype-raw";
-import blogContent from "./demo.json";
+import { useParams } from "react-router-dom";
+import blogs from "../../data/blogs.json";
+
+interface Blog {
+  id: string;
+  date: string;
+  title: string;
+  image: string;
+  content: string;
+}
 
 export const BlogContent = () => {
   const authorImagePath = "/images/blog/author.jpeg";
+  const { id } = useParams();
+  const blog = (blogs as Blog[]).find((blog) => blog.id === id);
 
-  const blog = blogContent[0];
+  if (!blog) return <div className="w-full flex items-center justify-center my-10">Oops! Blog not found</div>;
   
   return (
     <div className="w-full flex items-center justify-center my-10">
@@ -66,7 +77,7 @@ export const BlogContent = () => {
                 ),
               }}
             >
-              {blog.content}
+              {blog.content ? blog.content : ""}
             </ReactMarkdown>
           </div>
         </div>

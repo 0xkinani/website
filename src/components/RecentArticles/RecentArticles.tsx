@@ -1,15 +1,6 @@
 import blogs from "../../data/blogs.json";
 import { Link } from "react-router-dom";
-interface Blog {
-  id: string;
-  date: string;
-  title: string;
-  image: string;
-  content: string;
-}
-
 export const RecentArticles = () => {
-  const demoImagePath = "/images/blog/demo.jpg";
   const authorImagePath = "/images/blog/author.jpeg";
 
   const recentBlogs = blogs.slice(0, 4);

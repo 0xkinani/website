@@ -20,7 +20,13 @@ export const Header = () => {
             <Logo />
 
             <div className="border border-r-3 border-b-3 rounded-xl p-2 text-2xl bg-white cursor-pointer lg:block hidden">
-              <FaGithub />
+              <a
+                href="https://github.com/0xkinani/website"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <FaGithub />
+              </a>
             </div>
 
             <div

@@ -7,7 +7,7 @@ export function useGlobal() {
 }
 
 export function GlobalProvider({ children }: React.PropsWithChildren) {
-  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState<boolean>(true);
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState<boolean>(false);
 
   return (
     <GlobalContext.Provider

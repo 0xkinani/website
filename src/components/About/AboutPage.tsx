@@ -18,23 +18,24 @@ export const AboutPage = () => {
 
           <div className="mt-10">
             <p className="text-2xl mt-5">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
-              tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+              I'm <strong>0xkinani</strong>, a software engineer and systems
+              architect who’s worked behind the scenes on some of the most
+              resilient and widely used platforms in tech today. My experience
+              spans Full Stack Development, Blockchain Engineering, and digital
+              security.
             </p>
             <p className="text-2xl mt-5">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-              reprehenderit in voluptate velit esse cillum dolore eu fugiat
-              nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-              sunt in culpa qui officia deserunt mollit anim id est laborum.
+              After years of building in the open, I chose anonymity, not to
+              hide, but to create without limits. Without ego or distraction. My
+              goal is simple: to engineer systems that last, algorithms that
+              scale, and infrastructure that defies compromise. This space is a
+              glimpse into the mind behind the mask.
             </p>
           </div>
 
           {/* quote */}
 
-          <div className=" w-full lg:h-[300px] h-fit py-10 bg-red-500 mt-10 roundex-xl border border-r-4 border-b-4 rounded-xl px-10">
+          <div className="w-full lg:h-[300px] h-fit py-10 bg-red-500 mt-10 rounded-xl border border-r-4 border-b-4 px-10">
             <div className="w-full flex items-center justify-center h-full flex-col">
               <div className="w-[50px] h-[50px] bg-white/50 rounded-xl flex items-center justify-center text-white text-xl">
                 <FaQuoteRight />
@@ -42,9 +43,8 @@ export const AboutPage = () => {
 
               <div className="w-full text-center text-white mt-3">
                 <p className="text-xl font-bold">
-                  A small river named Duden flows by their place and supplies it
-                  with the necessary regelialia. It is a paradisematic country,
-                  in which roasted parts of sentences fly into your mouth.
+                  Going anonymous isn’t about secrecy. It’s about focus, on the
+                  code, the system, and the mission.
                 </p>
               </div>
 
@@ -55,7 +55,7 @@ export const AboutPage = () => {
                 </div>
 
                 <div>
-                  <h3 className="text-xl text-white">John Doe</h3>
+                  <h3 className="text-xl text-white">0xkinani</h3>
                 </div>
 
                 <div className="flex items-center gap-2">
@@ -68,10 +68,9 @@ export const AboutPage = () => {
 
           <div className="mt-10">
             <p className="text-2xl mt-5">
-              I am so happy, my dear friend, so absorbed in the exquisite sense
-              of mere tranquil existence, that I neglect my talents. I should be
-              incapable of drawing a single stroke at the present moment; and
-              yet I feel that I never was a greater artist than now.
+              I build with a purpose: resilient, scalable systems that put users
+              first and surveillance last. This is not just software, it's
+              infrastructure for the new internet.
             </p>
           </div>
         </div>
@@ -86,9 +85,8 @@ export const AboutPage = () => {
               />
             </div>
 
-
             <div className="w-full my-3 text-center">
-                <h3 className="text-2xl font-bold">0xKinani</h3>
+              <h3 className="text-2xl font-bold">0xKinani</h3>
             </div>
 
             <div className="flex items-center justify-center gap-5 flex-wrap mt-5">

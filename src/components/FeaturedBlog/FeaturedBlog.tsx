@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 export const FeaturedBlog = () => {
 
   const authorImagePath = "/images/blog/author.jpeg";
-  const featuredBlogId = "fee02a49-fb50-462f-84b1-3fe65e608092";
+  const featuredBlogId = "privacy-by-design-for-developers-1747049525527";
   const featuredBlog = blogs.find((blog) => blog.id === featuredBlogId);
 
   if (!featuredBlog) {

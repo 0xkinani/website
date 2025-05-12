@@ -14,7 +14,7 @@ export const Header = () => {
       <header className="w-full flex items-center justify-center lg:pt-20 pt-10">
         <div className="w-[90%] mx-auto flex items-center justify-center flex-col">
           <div className="w-full flex items-center justify-between gap-5 ">
-            <div className=""></div>
+            <div className="lg:block hidden"></div>
             <Logo />
 
             <div className="border border-r-3 border-b-3 rounded-xl p-2 text-2xl bg-white cursor-pointer lg:block hidden">

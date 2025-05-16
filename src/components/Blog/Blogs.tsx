@@ -65,7 +65,7 @@ export const Blogs = () => {
                 <p>{blog.content.replace(/[^\w\s]/g, " ").slice(0, 100)}...</p>
               </div>
             </div>
-          ))}
+          )).reverse()}
       </div>
     </div>
   );

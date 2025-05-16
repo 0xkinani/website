@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export const RecentArticles = () => {
   const authorImagePath = "/images/blog/author.jpeg";
 
-  const recentBlogs = blogs.slice(0, 4);
+  const recentBlogs = blogs.slice(0, 4).reverse();
 
   return (
     <div className="w-full flex items-center justify-center py-10">
